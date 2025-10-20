@@ -1,0 +1,6 @@
+pydantic==2.9.2
+PyYAML==6.0.2
+# Real Garak integration
+# Install the scanner + its CLI dependency
+# (garak pulls a lot of extras; pin or vendor per your env)
+garak>=0.10.0
